@@ -1,2 +1,2 @@
-# calculadora-tempo-java
-Projeto em Java para cálculo de tempo de execução
+# relatorio-laboratorio-java
+cálculo de indicadores e métricas a partir de dados inseridos pelo usuário
