@@ -41,6 +41,4 @@ public class RelatorioDiarioLaboratorio {
     public static String formatar2Casas(double valor) { 
         return String.format(Locale.US, "%.2f", valor); 
     } 
-}
-
     
