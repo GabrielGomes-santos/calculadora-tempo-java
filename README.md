@@ -1,47 +1,7 @@
-# 📊 Relatório de Laboratório (Java)
-
-Projeto desenvolvido em Java para cálculo de indicadores com base em dados informados pelo usuário.
-
----
-
-## 💡 Sobre
-
-O sistema simula um relatório diário de laboratório, onde o usuário informa:
-
-- Quantidade de amostras processadas  
-- Tempo total gasto  
-- Número de resultados válidos  
-
-Com base nesses dados, o programa calcula:
-
-- Tempo médio por amostra  
-- Percentual de resultados válidos  
-
----
-
-## 🚀 Tecnologias
-
-- Java  
-- Estruturas condicionais e de repetição  
-- Entrada de dados via console  
-
----
-
-## 📚 O que pratiquei
-
-- Lógica de programação aplicada  
-- Manipulação de dados numéricos  
-- Cálculo de indicadores  
-- Uso de variáveis e tipos de dados  
-- Entrada e saída de dados com `Scanner`  
-
----
-
-## ▶️ Exemplo de uso
-Quantidade de amostras: 10
-Tempo total (min): 60
-Resultados válidos: 5
-
---- Indicadores ---
-Tempo médio por amostra: 6.00
-Percentual de válidos: 50.00%
+Para praticar lógica de programação e cálculos aplicados a cenários reais, desenvolvi um Relatório de Laboratório em Java.
+A proposta do sistema é simular um painel de controle operacional onde o usuário insere dados do dia a dia de um laboratório como a quantidade 
+de amostras processadas, o tempo total gasto e o número de resultados válidos. A partir dessas entradas, o programa processa as informações e calcula 
+automaticamente indicadores importantes, como o tempo médio por amostra e o percentual de aproveitamento dos resultados válidos.
+Durante o desenvolvimento, exercitei o uso de variáveis e tipos de dados numéricos, estruturas condicionais e de repetição, além da captura e exibição de 
+dados via console utilizando o Scanner.
+É um projeto voltado para consolidar a lógica de programação aplicada à resolução de problemas e à geração de métricas.
